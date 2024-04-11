@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<%- include('./partials/head') %>
+
+<body>
+    <%- include('./partials/header')  %>
+    <main>
+        <div id="question">
+            <p> <%= question %> </p>
+        </div>
+
+        <div id="answers">
+            <p class="<%= answerA%>" ><%= A %></p> <br>
+            <p class="<%= answerB%>" ><%= B %></p> <br>
+            <p class="<%= answerC%>" ><%= C %></p> <br>
+            <p class="<%= answerD%>" ><%= D %></p> <br>
+            <p class="<%= answerE%>" ><%= E %></p>
+        </div>
+
+        <div id="buttons">
+            <input type="button" id="showCorrectButton" value="Show correct">
+            <input type="button" id="random-button" value="Random">
+        </div>
+    </main>
+    
+    <script src="/scripts/indexScript.js"></script>
+    <script src="/scripts/answerScript.js"></script>
+    
+</body>
+
+</html>

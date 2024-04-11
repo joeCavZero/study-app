@@ -1,0 +1,26 @@
+{
+    "questions": [
+        {
+            "question": "Provas: FUNDATEC - 2016 - Prefeitura de Vacaria - RS - Professor . Conforme o Art. 1o, § 1o, a Lei no 9.394/1996 disciplina a educação escolar, que se desenvolve, predominantemente, por meio:",
+            "answers": {
+                "A" : "Do ensino, em instituições próprias.",
+                "B" : "Da convivência familiar.",
+                "C" : "Dos movimentos sociais.",
+                "D" : "Das manifestações culturais.",
+                "E" : "Das organizações da sociedade civil."
+            },
+            "correct": "A"
+        },
+        {
+            "question": "No que diz respeito à relação família e escola, informe se é verdadeiro(V) ou falso(F) o que se afirma a seguir  e assinale a alternativa com a sequência correta.\n( ) O importante é organizar o ensino escolar de acordo com as diferentes formas de organização familiar.\n( ) Os professores compartilham a educação das crianças com a família, mas exercem funções diferentes desta.\n( ) No trabalho escolar, as diferentes culturas familiares enriquecem as aprendizagens das crianças.\n( ) As famílias devem ser compreendidas como parceiras da escola e devem assumir diferentes papeis nesse ambiente.",
+            "answers": {
+                "A" : "V-V-F-F",
+                "B" : "F-F-V-V",
+                "C" : "V-F-F-V",
+                "D" : "F-V-V-F",
+                "E" : "---"
+            },
+            "correct": "D"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(55, 100, 55);
+}
+
+main , header {
+    background-color: rgb(155,155,155);
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
+
+    margin: auto;
+    margin-top: 1%;
+    width: 70%;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+div#question , div#answers , div#buttons{
+    background-color: rgb(175,175,175);
+    width: auto;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
+    margin: 1%;
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+
+input#showCorrectButton {
+    width:100%;
+
+}
+
+main input {
+    display: block;
+    margin: 0 auto;
+}
+
+div#buttons {
+    background-color: rgb(175,175,175);
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    
+    
+    /*center*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 25%;
+    padding: 10px;
+}
+
+input[type="button"] {
+
+    border-radius: 1%;
+
+    width: 50%;
+
+    margin-right: 5%;
+    margin-left: 5%;
+    
+}
+
+
+
+h1,p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    border-color: black;
+}
+
+input {
+    text-align: center;
+}
+
+/*#q1{
+    background-color: greenyellow;
+}*/
