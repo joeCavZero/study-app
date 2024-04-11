@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "Provas: FUNDATEC - 2016 - Prefeitura de Vacaria - RS - Professor . Conforme o Art. 1o, § 1o, a Lei no 9.394/1996 disciplina a educação escolar, que se desenvolve, predominantemente, por meio:",
+            "question": "Conforme o Art. 1o, § 1o, a Lei no 9.394/1996 disciplina a educação escolar, que se desenvolve, predominantemente, por meio:",
             "answers": {
                 "A" : "Do ensino, em instituições próprias.",
                 "B" : "Da convivência familiar.",
@@ -10,15 +10,36 @@
                 "E" : "Das organizações da sociedade civil."
             },
             "correct": "A"
-        },
+        }
+        ,
         {
             "question": "No que diz respeito à relação família e escola, informe se é verdadeiro(V) ou falso(F) o que se afirma a seguir  e assinale a alternativa com a sequência correta.\n( ) O importante é organizar o ensino escolar de acordo com as diferentes formas de organização familiar.\n( ) Os professores compartilham a educação das crianças com a família, mas exercem funções diferentes desta.\n( ) No trabalho escolar, as diferentes culturas familiares enriquecem as aprendizagens das crianças.\n( ) As famílias devem ser compreendidas como parceiras da escola e devem assumir diferentes papeis nesse ambiente.",
             "answers": {
                 "A" : "V-V-F-F",
                 "B" : "F-F-V-V",
                 "C" : "V-F-F-V",
-                "D" : "F-V-V-F",
-                "E" : "---"
+                "D" : "F-V-V-F"
+                
+            },
+            "correct": "D"
+        }
+        ,
+        {
+            "question": "Para que haja uma boa relação entre creche e família, é necessário o respeito mútuo.",
+            "answers": {
+                "A" : "Certo",
+                "B" : "Errado"
+            },
+            "correct": "A"
+        }
+        ,
+        {
+            "question": "A respeito do cotidiano na escola, no que tange à afetividade, marcar (V) para afirmativas verdadeiras, (F) para as falsas e, após, assinalar a alternativa que apresenta a sequência, de cima para baixo, correta:\n( ) A afetividade é um dos fatores que favorecem a aprendizagem e o desenvolvimento cognitivo, fazendo com que o indivíduo aprenda através dos sentimentos, das emoções e das experiências que são trocadas com o outro.\n( ) A criança deve ser cuidada e educada preferencialmente com o uso de castigo físico ou de tratamento degradante.\n( ) A criança passa a conhecer o mundo através de suas relações com o outro. A escola é um espaço importante de trocas de um com o outro, promovendo o desenvolvimento da criança.",
+            "answers": {
+                "A" : "V-V-V",
+                "B" : "F-V-V",
+                "C" : "F-V-F",
+                "D" : "V-F-V"
             },
             "correct": "D"
         }

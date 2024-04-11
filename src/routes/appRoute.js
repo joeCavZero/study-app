@@ -20,15 +20,15 @@ router.get('/q/:id', (req , res )=>{
     const id = req.params.id ;
     const dataQuestion = getJsonByPath( qPath , id ) ;
 
-    let correctJson = getCorrectJson( dataQuestion.correct )
-    
+    let correctJson = getCorrectJson( dataQuestion.correct );
+    console.log(dataQuestion.question)
     res.render('questionPage' , {
         question : dataQuestion.question,
         A : "A - "+ dataQuestion.answers.A,//.replace('\n','---'),
-        B : "B - "+ dataQuestion.answers.B,
-        C : "C - "+ dataQuestion.answers.C,
-        D : "D - "+ dataQuestion.answers.D,
-        E : "E - "+ dataQuestion.answers.E,
+        B : "B - "+ (dataQuestion.answers.B || ''),
+        C : "C - "+ (dataQuestion.answers.C || ''),
+        D : "D - "+ (dataQuestion.answers.D || ''),
+        E : "E - "+ (dataQuestion.answers.E || ''),
 
         answerA : correctJson.answerA,
         answerB : correctJson.answerB,
