@@ -1,0 +1,71 @@
+{
+    "questions": [
+      {
+        "question": "Uma padaria vende pão de queijo por R$ 2,50 cada. Se João comprar 4 pães de queijo, quanto ele pagará no total?",
+        "answers": {
+          "A": "R$ 7,50",
+          "B": "R$ 8,00",
+          "C": "R$ 9,00",
+          "D": "R$ 9,50",
+          "E": "R$ 10,00"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Em uma promoção, um chocolate custa R$ 5,00 e o outro sai pela metade do preço. Quanto Ana gastará se comprar 3 chocolates no total?",
+        "answers": {
+          "A": "R$ 7,50",
+          "B": "R$ 10,00",
+          "C": "R$ 12,50",
+          "D": "R$ 15,00",
+          "E": "R$ 17,50"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "Um fazendeiro tem 120 galinhas e vende 25% delas. Quantas galinhas ele ainda possui?",
+        "answers": {
+          "A": "80 galinhas",
+          "B": "90 galinhas",
+          "C": "100 galinhas",
+          "D": "110 galinhas",
+          "E": "120 galinhas"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "Em uma corrida de 100 metros, Pedro percorreu 3/4 da distância em 15 segundos. Quanto tempo ele levou para completar toda a prova?",
+        "answers": {
+          "A": "12 segundos",
+          "B": "15 segundos",
+          "C": "18 segundos",
+          "D": "20 segundos",
+          "E": "22 segundos"
+        },
+        "correct": "D"
+      },
+      {
+        "question": "Uma pizza grande custa R$ 30,00 e a média é cortada em 8 fatias iguais. Quanto custa cada fatia?",
+        "answers": {
+          "A": "R$ 3,75",
+          "B": "R$ 4,00",
+          "C": "R$ 4,25",
+          "D": "R$ 4,50",
+          "E": "R$ 4,75"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Em uma pesquisa, 45% dos entrevistados preferem suco de laranja, 30% suco de maracujá e o restante prefere suco de uva. Qual porcentagem prefere suco de uva?",
+        "answers": {
+          "A": "15%",
+          "B": "20%",
+          "C": "25%",
+          "D": "30%",
+          "E": "35%"
+        },
+        "correct": "C"
+      }
+    ]
+  }
+  

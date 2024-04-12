@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const router = express.Router();
 
-const qPath = './data/semec-1.json'
+const qPath = './data/matematica.json'
 
 
 router.get('/', (req , res)=>{

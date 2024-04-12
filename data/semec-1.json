@@ -43,5 +43,33 @@
             },
             "correct": "D"
         }
+
+
+        ,
+
+
+        {
+            "question": "Para responder à questão, considere  o módulo 12 de Higiene e Segurança nas Escolas do Ministério da Educação. Segundo a Organização Mundial de Saúde(OMS), a saúde é entendida como um estado de :",
+            "answers": {
+                "A" : "Normalidade do funcionamento do organismo humano.",
+                "B" : "Paz e segurança.",
+                "C" : "Completo bem-estar , isso significa estar bem em aspectos físico, mental e social",
+                "D" : "Bem-estar, no aspecto físico.",
+                "E" : "Ausência de doença ou enfermidade."
+            },
+            "correct": "C"
+        }
+        ,
+        {
+            "question": "A respeito das boas práticas de higiene no cuidado de crianças, assinale a afirmativa INCORRETA.",
+            "answers": {
+                "A" : "Os brinquedos devem ser higienizados com frequência e lavados quando caírem no chão ou em locais sujos.",
+                "B" : "As roupas das crianças menores de 1 ano devem ser lavadas com sabão neutro e sem uso de produtos que causem alergias.",
+                "C" : "Utensílios como mamadeiras devem ser limpos com água, sabão e para retirar os micro-organismos que ali estiverem, água fervente.",
+                "D" : "A partir  de 1 mês de vida, as crianças desenvolvem seu sistema imunológico e, por isso, as roupas podem ser lavadas juntamente com as demais roupas da família.",
+                "E" : "A criança deve aprender que é importante lavar as mãos antes de se alimentar, depois de ir ao banheiro para as necessidades fisiológicas; sempre que mexer com terra, areia, sujeira, etc."
+            },
+            "correct": "D"
+        }
     ]
 }
